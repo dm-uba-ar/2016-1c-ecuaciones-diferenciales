@@ -1,9 +1,4 @@
-# Ecuaciones Diferenciales A - Ecuaciones Diferenciales B — Primer cuatrimestre de 2016
-
-## Equipo docente
-
-- **Clases teóricas:** Diego Rial
-- **Clases prácticas:** Daniel Galicer, Antonella Ritorto, Felipe Marceca
+# Ecuaciones Diferenciales — Primer cuatrimestre de 2016
 
 ## Prácticas
 
@@ -30,13 +25,6 @@
 ## Otros materiales
 
 - [Programa de la materia.](Programa.pdf)
-
-## Bibliografía
-
-- Para firmar los trabajos prácticos se deben aprobar dos exámenes parciales, el primero a mediados y el segundo al fines del cuatrimestre. Habrá una fecha de recuperación por parcial al fin del cuatrimestre.
-- Inscripción . Para poder ser incluido en las Actas de Trabajos Prácticos, en caso de aprobar los mismos, es necesario haberse inscripto en la materia (a través del Sistema de Inscripciones de la Facultad ) y haber completado la encuesta de evaluación docente.
-- \|\|.\|\| Higiene + \|\|.\|\| Seguridad . Se recuerda que es obligatoria la lectura de las mismas .
-- Created by slaplagn
 
 ## Página original
 
